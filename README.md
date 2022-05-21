@@ -25,9 +25,9 @@
 <br>
 
 ## Collaborator
-고정욱
-[김이현](https://github.com/IhyeonKIM ) (@IhyeonKIM)
-박지원
+고정욱 <br>
+[김이현](https://github.com/IhyeonKIM ) (@IhyeonKIM) <br>
+박지원 <br>
 
 
 [presentation-link]:https://youtu.be/bx2k0cbR4bE?t=8776
