@@ -1,5 +1,5 @@
 # 빅콘테스트 2021, ECO 제주 분야 최우수상
-<br> 
+### ['그린핀치'팀 최종 발표 영상 클릭]
 
 ## 문제 정의
 2021년 7, 8월 두 달 간의 41개 행정동별 제주도 음식물 쓰레기 배출량을 예측하고, 감소 방안 제시하기
@@ -22,5 +22,12 @@
 3. 미래 시점의 설명변수 예측 - 2021년 7, 8월의 유동인구 예측
 4. 모델링 - 최종 모형 CatBoost
 5. 결과 해석 - shap value
+<br>
 
-## 발표 영상
+## Collaborator
+고정욱
+[김이현](https://github.com/IhyeonKIM ) (@IhyeonKIM)
+박지원
+
+
+[presentation-link]:https://youtu.be/bx2k0cbR4bE?t=8776
