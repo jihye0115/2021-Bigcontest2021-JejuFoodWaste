@@ -27,7 +27,7 @@
 ## Collaborator
 고정욱 <br>
 [김이현](https://github.com/IhyeonKIM ) (@IhyeonKIM) <br>
-박지원 <br>
+[박지원](https://github.com/jiwonlydia) (@jiwonlydia) <br>
 
 
 [presentation-link]:https://youtu.be/bx2k0cbR4bE?t=8776
