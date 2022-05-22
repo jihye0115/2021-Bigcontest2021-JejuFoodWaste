@@ -30,4 +30,4 @@
 [박지원](https://github.com/jiwonlydia) (@jiwonlydia) <br>
 
 
-[presentation-link]:https://youtu.be/bx2k0cbR4bE?t=8776
+[presentation-link]:(https://youtu.be/bx2k0cbR4bE?t=8776)
