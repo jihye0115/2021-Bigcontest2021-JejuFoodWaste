@@ -1,6 +1,6 @@
 # 빅콘테스트 2021, ECO 제주 분야 최우수상
 ### ['그린핀치'팀 최종 발표 영상 클릭](https://youtu.be/bx2k0cbR4bE?t=8776)
-#### 📰 [보고서](https://github.com/jihye0115/2021-Bigcontest2021-JejuFoodWaste/blob/main/%EA%B7%B8%EB%A6%B0%ED%95%80%EC%B9%98%ED%8C%80_%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
+#### 📰 [발표자료](https://github.com/jihye0115/2021-Bigcontest2021-JejuFoodWaste/blob/main/%EA%B7%B8%EB%A6%B0%ED%95%80%EC%B9%98%ED%8C%80_%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 
 ## ✨ 내가 기여한 주요 포인트
 
